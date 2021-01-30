@@ -1,0 +1,14 @@
+.heading {
+  color: #f5f6f7;
+  text-align: center;
+}
+.main {
+  padding: 40px;
+  height: 100vh;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    padding: 20px;
+  }
+}
